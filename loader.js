@@ -7,8 +7,6 @@ TweenMax.to(".loading-screen", 4, {
 
 
 
-
-
 var t1 = new TimelineMax();
 
 t1.from(".ringOne", 4, {
